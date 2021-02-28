@@ -1,7 +1,8 @@
     
     @@ Autor - Vitor André Gehrke
     @@ Versão - 1.0
-    @@ Programa -desafioProgramacao
+    @@ Programa - desafioProgramacao
+    @@ Agradecimentos aos professores Geraldo Menegazzo Varela - UDESC/Ibirama - SC e Nelio Alves - UFU ("Curso Udemy Java COMPLETO Programação Orientada a Objetos +Projetos")
 
     ===============================
 
